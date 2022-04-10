@@ -1,5 +1,5 @@
 ---
-title: Ibug Emotion_recognition
+title: iBUG Emotion Recognition
 emoji: 🔥
 colorFrom: blue
 colorTo: gray
