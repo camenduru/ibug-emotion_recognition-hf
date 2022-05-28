@@ -25,7 +25,7 @@ from ibug.face_detection import RetinaFacePredictor
 
 TITLE = 'ibug-group/emotion_recognition'
 DESCRIPTION = 'This is an unofficial demo for https://github.com/ibug-group/emotion_recognition.'
-ARTICLE = None
+ARTICLE = '<center><img src="https://visitor-badge.glitch.me/badge?page_id=hysts.ibug-emotion_recognition" alt="visitor badge"/></center>'
 
 TOKEN = os.environ['TOKEN']
 
