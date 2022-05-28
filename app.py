@@ -23,9 +23,8 @@ from ibug.emotion_recognition import EmoNetPredictor
 from ibug.face_alignment import FANPredictor
 from ibug.face_detection import RetinaFacePredictor
 
-REPO_URL = 'https://github.com/ibug-group/emotion_recognition'
 TITLE = 'ibug-group/emotion_recognition'
-DESCRIPTION = f'This is a demo for {REPO_URL}.'
+DESCRIPTION = 'This is an unofficial demo for https://github.com/ibug-group/emotion_recognition.'
 ARTICLE = None
 
 TOKEN = os.environ['TOKEN']
