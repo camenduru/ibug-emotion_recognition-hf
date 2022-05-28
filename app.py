@@ -141,8 +141,6 @@ def predict(image: np.ndarray, model_name: str, max_num_faces: int,
 
 
 def main():
-    gr.close_all()
-
     args = parse_args()
     device = torch.device(args.device)
 
